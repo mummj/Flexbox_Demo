@@ -1,0 +1,19 @@
+body{
+  background-color: aqua;
+}
+main{
+  display:flex;
+}
+#one{
+  display: flex;
+  justify-content: space-between;
+  width:800px;
+}
+ul{
+  display:flex;
+  justify-content: space-evenly;
+}
+#two{
+  width:500px;
+  margin-left: 50px;
+}
